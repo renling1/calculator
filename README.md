@@ -7,4 +7,4 @@
 ##开发环境
 - Python3.7+
 
-- Pycharm集成开发平台
+- Pycharm集成
